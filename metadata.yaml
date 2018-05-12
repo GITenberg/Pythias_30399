@@ -1,0 +1,43 @@
+_repo: Pythias_30399
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hunter, Mel
+    alias: Hunter
+    birthdate: 1927
+    deathdate: 2004
+    gutenberg_agent_id: '34425'
+    url: http://www.gutenberg.org/2009/agents/34425
+    wikipedia: http://en.wikipedia.org/wiki/Mel_Hunter
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederick
+    - Pohl, Frederik George, Jr.
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Frederik_Pohl
+    - http://www.gutenberg.org/ebooks/author/46565
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Pythias
+url: http://www.gutenberg.org/ebooks/30399
